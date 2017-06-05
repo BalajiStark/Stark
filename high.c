@@ -19,5 +19,5 @@ void main()
       }
     }
    }
-   printf("%d \n %d",a[0],a[i]);
+   printf("%d \n %d",a[0],a[n-1]);
   } 
