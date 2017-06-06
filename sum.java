@@ -8,6 +8,7 @@ public class sum {
      for(int i=0;i<n;i++)
      {
          a[i]=Integer.parseInt(args[i]);
+         if(a[i]!=0)
          sum=sum+a[i];
      }
         System.out.println(sum);
